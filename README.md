@@ -1,5 +1,7 @@
 # ztm-robofriends
 
+A web app displaying a list of different robot profiles. Search function allows user to locate the desired robot profile(s). Profile pictures are from robohash.org, and the profile objects are from https://jsonplaceholder.typicode.com/users.
+
 Zero to Mastery (ZTM) Tutorial for creating React Web Application:
 
 1. Clone this repo
